@@ -74,34 +74,34 @@ I really enjoyed this project because I learned how to use SVG images as sprites
 
       <ul class="ratings__list"> 
         <li class="rating__item"> 
-          <div class="ratings__stars" aria-label="5 out of the 5 star"> 
-            <svg class="rating__star" width="17" height="16" aria-hidden="true"><use href="#icon-star" /></svg> 
-            <svg class="rating__star" width="17" height="16" aria-hidden="true"><use href="#icon-star" /></svg> 
-            <svg class="rating__star" width="17" height="16" aria-hidden="true"><use href="#icon-star" /></svg> 
-            <svg class="rating__star" width="17" height="16" aria-hidden="true"><use href="#icon-star" /></svg> 
-            <svg class="rating__star" width="17" height="16" aria-hidden="true"><use href="#icon-star" /></svg> 
+          <div class="ratings__stars" aria-hidden="true"> 
+            <svg class="rating__star" width="17" height="16"><use href="#icon-star" /></svg> 
+            <svg class="rating__star" width="17" height="16"><use href="#icon-star" /></svg> 
+            <svg class="rating__star" width="17" height="16"><use href="#icon-star" /></svg> 
+            <svg class="rating__star" width="17" height="16"><use href="#icon-star" /></svg> 
+            <svg class="rating__star" width="17" height="16"><use href="#icon-star" /></svg> 
           </div> 
           <p class="rating__text">Rated 5 Stars in Reviews</p> 
         </li> 
 
         <li class="rating__item"> 
-          <div class="ratings__stars" aria-label="5 out of the 5 star"> 
-            <svg class="rating__star" width="17" height="16" aria-hidden="true"><use href="#icon-star" /></svg> 
-            <svg class="rating__star" width="17" height="16" aria-hidden="true"><use href="#icon-star" /></svg> 
-            <svg class="rating__star" width="17" height="16" aria-hidden="true"><use href="#icon-star" /></svg> 
-            <svg class="rating__star" width="17" height="16" aria-hidden="true"><use href="#icon-star" /></svg> 
-            <svg class="rating__star" width="17" height="16" aria-hidden="true"><use href="#icon-star" /></svg> 
+          <div class="ratings__stars" aria-hidden="true"> 
+            <svg class="rating__star" width="17" height="16"><use href="#icon-star" /></svg> 
+            <svg class="rating__star" width="17" height="16"><use href="#icon-star" /></svg> 
+            <svg class="rating__star" width="17" height="16"><use href="#icon-star" /></svg> 
+            <svg class="rating__star" width="17" height="16"><use href="#icon-star" /></svg> 
+            <svg class="rating__star" width="17" height="16"><use href="#icon-star" /></svg> 
           </div> 
           <p class="rating__text">Rated 5 Stars in Report Guru</p> 
         </li> 
 
         <li class="rating__item"> 
-          <div class="ratings__stars" aria-label="5 out of the 5 star"> 
-            <svg class="rating__star" width="18" height="18" aria-hidden="true"><use href="#icon-star" /></svg> 
-            <svg class="rating__star" width="18" height="18" aria-hidden="true"><use href="#icon-star" /></svg> 
-            <svg class="rating__star" width="18" height="18" aria-hidden="true"><use href="#icon-star" /></svg> 
-            <svg class="rating__star" width="18" height="18" aria-hidden="true"><use href="#icon-star" /></svg> 
-            <svg class="rating__star" width="18" height="18" aria-hidden="true"><use href="#icon-star" /></svg> 
+          <div class="ratings__stars" aria-hidden="true"> 
+            <svg class="rating__star" width="18" height="18"><use href="#icon-star" /></svg> 
+            <svg class="rating__star" width="18" height="18"><use href="#icon-star" /></svg> 
+            <svg class="rating__star" width="18" height="18"><use href="#icon-star" /></svg> 
+            <svg class="rating__star" width="18" height="18"><use href="#icon-star" /></svg> 
+            <svg class="rating__star" width="18" height="18"><use href="#icon-star" /></svg> 
           </div> 
           <p class="rating__text">Rated 5 Stars in BestTech</p> 
         </li> 
